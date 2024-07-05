@@ -14,6 +14,24 @@
 		A1511A2F2C379A5E0069DF73 /* SwiftUIStudyThreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A2E2C379A5E0069DF73 /* SwiftUIStudyThreeTests.swift */; };
 		A1511A392C379A5E0069DF73 /* SwiftUIStudyThreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A382C379A5E0069DF73 /* SwiftUIStudyThreeUITests.swift */; };
 		A1511A3B2C379A5E0069DF73 /* SwiftUIStudyThreeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A3A2C379A5E0069DF73 /* SwiftUIStudyThreeUITestsLaunchTests.swift */; };
+		A1511A4B2C379C490069DF73 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A4A2C379C490069DF73 /* Color+Ext.swift */; };
+		A1511A4D2C379C840069DF73 /* ProgressRingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A4C2C379C840069DF73 /* ProgressRingView.swift */; };
+		A1511A512C379DCE0069DF73 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A4F2C379DCE0069DF73 /* Task.swift */; };
+		A1511A522C379DCE0069DF73 /* TaskStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A502C379DCE0069DF73 /* TaskStore.swift */; };
+		A1511A552C37A1360069DF73 /* SwiftUITextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A542C37A1360069DF73 /* SwiftUITextEditor.swift */; };
+		A1511A582C37C0050069DF73 /* MatchedGeometryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A572C37C0050069DF73 /* MatchedGeometryView.swift */; };
+		A1511A5C2C37C2810069DF73 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A5B2C37C2810069DF73 /* Photo.swift */; };
+		A1511A5E2C37C2AB0069DF73 /* GridViewAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A5D2C37C2AB0069DF73 /* GridViewAnimationView.swift */; };
+		A1511A612C37C3C90069DF73 /* UITableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A602C37C3C90069DF73 /* UITableView.swift */; };
+		A1511A642C37C4A00069DF73 /* UIAsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A632C37C4A00069DF73 /* UIAsyncImageView.swift */; };
+		A1511A672C37C64D0069DF73 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A662C37C64D0069DF73 /* Article.swift */; };
+		A1511A692C37C6710069DF73 /* SearchableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A682C37C6710069DF73 /* SearchableView.swift */; };
+		A1511A6C2C37C9670069DF73 /* ChartsAppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A6B2C37C9670069DF73 /* ChartsAppView.swift */; };
+		A1511A6F2C37C9840069DF73 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A6D2C37C9830069DF73 /* WeatherData.swift */; };
+		A1511A702C37C9840069DF73 /* SimpleLineChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A6E2C37C9830069DF73 /* SimpleLineChartView.swift */; };
+		A1511A732C37CAAD0069DF73 /* LiveTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A722C37CAAD0069DF73 /* LiveTextView.swift */; };
+		A1511A752C37CACC0069DF73 /* DataScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A742C37CACC0069DF73 /* DataScanner.swift */; };
+		A1511A782C37CB5C0069DF73 /* ShareLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A772C37CB5C0069DF73 /* ShareLinkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		A1511A342C379A5E0069DF73 /* SwiftUIStudyThreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIStudyThreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1511A382C379A5E0069DF73 /* SwiftUIStudyThreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyThreeUITests.swift; sourceTree = "<group>"; };
 		A1511A3A2C379A5E0069DF73 /* SwiftUIStudyThreeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyThreeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A1511A4A2C379C490069DF73 /* Color+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
+		A1511A4C2C379C840069DF73 /* ProgressRingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingView.swift; sourceTree = "<group>"; };
+		A1511A4F2C379DCE0069DF73 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		A1511A502C379DCE0069DF73 /* TaskStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskStore.swift; sourceTree = "<group>"; };
+		A1511A542C37A1360069DF73 /* SwiftUITextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITextEditor.swift; sourceTree = "<group>"; };
+		A1511A572C37C0050069DF73 /* MatchedGeometryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryView.swift; sourceTree = "<group>"; };
+		A1511A5B2C37C2810069DF73 /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		A1511A5D2C37C2AB0069DF73 /* GridViewAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewAnimationView.swift; sourceTree = "<group>"; };
+		A1511A602C37C3C90069DF73 /* UITableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableView.swift; sourceTree = "<group>"; };
+		A1511A632C37C4A00069DF73 /* UIAsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIAsyncImageView.swift; sourceTree = "<group>"; };
+		A1511A662C37C64D0069DF73 /* Article.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		A1511A682C37C6710069DF73 /* SearchableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchableView.swift; sourceTree = "<group>"; };
+		A1511A6B2C37C9670069DF73 /* ChartsAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsAppView.swift; sourceTree = "<group>"; };
+		A1511A6D2C37C9830069DF73 /* WeatherData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		A1511A6E2C37C9830069DF73 /* SimpleLineChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleLineChartView.swift; sourceTree = "<group>"; };
+		A1511A722C37CAAD0069DF73 /* LiveTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveTextView.swift; sourceTree = "<group>"; };
+		A1511A742C37CACC0069DF73 /* DataScanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataScanner.swift; sourceTree = "<group>"; };
+		A1511A772C37CB5C0069DF73 /* ShareLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +130,17 @@
 		A1511A1C2C379A5B0069DF73 /* SwiftUIStudyThree */ = {
 			isa = PBXGroup;
 			children = (
+				A1511A762C37CB3C0069DF73 /* 40ShareLink */,
+				A1511A712C37CA930069DF73 /* 39LiveText */,
+				A1511A6A2C37C9160069DF73 /* 38Charts */,
+				A1511A652C37C6310069DF73 /* 37Searchable */,
+				A1511A622C37C4560069DF73 /* 36AsyncImage */,
+				A1511A5F2C37C3780069DF73 /* 35UITableView */,
+				A1511A592C37C2100069DF73 /* 34GridViewAnimation */,
+				A1511A562C37BE140069DF73 /* 33matchedGeometryEffect   */,
+				A1511A532C37A04E0069DF73 /* 32TextEditorMulti */,
+				A1511A472C379B360069DF73 /* 31TaskAnimatable */,
 				A1511A1D2C379A5B0069DF73 /* SwiftUIStudyThreeApp.swift */,
-				A1511A1F2C379A5B0069DF73 /* ContentView.swift */,
 				A1511A212C379A5E0069DF73 /* Assets.xcassets */,
 				A1511A232C379A5E0069DF73 /* Preview Content */,
 			);
@@ -125,6 +170,111 @@
 				A1511A3A2C379A5E0069DF73 /* SwiftUIStudyThreeUITestsLaunchTests.swift */,
 			);
 			path = SwiftUIStudyThreeUITests;
+			sourceTree = "<group>";
+		};
+		A1511A472C379B360069DF73 /* 31TaskAnimatable */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A4E2C379DB40069DF73 /* Model */,
+				A1511A4A2C379C490069DF73 /* Color+Ext.swift */,
+				A1511A4C2C379C840069DF73 /* ProgressRingView.swift */,
+				A1511A1F2C379A5B0069DF73 /* ContentView.swift */,
+			);
+			path = 31TaskAnimatable;
+			sourceTree = "<group>";
+		};
+		A1511A4E2C379DB40069DF73 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A4F2C379DCE0069DF73 /* Task.swift */,
+				A1511A502C379DCE0069DF73 /* TaskStore.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A1511A532C37A04E0069DF73 /* 32TextEditorMulti */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A542C37A1360069DF73 /* SwiftUITextEditor.swift */,
+			);
+			path = 32TextEditorMulti;
+			sourceTree = "<group>";
+		};
+		A1511A562C37BE140069DF73 /* 33matchedGeometryEffect   */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A572C37C0050069DF73 /* MatchedGeometryView.swift */,
+			);
+			path = "33matchedGeometryEffect  ";
+			sourceTree = "<group>";
+		};
+		A1511A592C37C2100069DF73 /* 34GridViewAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A5A2C37C2730069DF73 /* Model */,
+				A1511A5D2C37C2AB0069DF73 /* GridViewAnimationView.swift */,
+			);
+			path = 34GridViewAnimation;
+			sourceTree = "<group>";
+		};
+		A1511A5A2C37C2730069DF73 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A5B2C37C2810069DF73 /* Photo.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A1511A5F2C37C3780069DF73 /* 35UITableView */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A602C37C3C90069DF73 /* UITableView.swift */,
+			);
+			path = 35UITableView;
+			sourceTree = "<group>";
+		};
+		A1511A622C37C4560069DF73 /* 36AsyncImage */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A632C37C4A00069DF73 /* UIAsyncImageView.swift */,
+			);
+			path = 36AsyncImage;
+			sourceTree = "<group>";
+		};
+		A1511A652C37C6310069DF73 /* 37Searchable */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A662C37C64D0069DF73 /* Article.swift */,
+				A1511A682C37C6710069DF73 /* SearchableView.swift */,
+			);
+			path = 37Searchable;
+			sourceTree = "<group>";
+		};
+		A1511A6A2C37C9160069DF73 /* 38Charts */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A6E2C37C9830069DF73 /* SimpleLineChartView.swift */,
+				A1511A6D2C37C9830069DF73 /* WeatherData.swift */,
+				A1511A6B2C37C9670069DF73 /* ChartsAppView.swift */,
+			);
+			path = 38Charts;
+			sourceTree = "<group>";
+		};
+		A1511A712C37CA930069DF73 /* 39LiveText */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A742C37CACC0069DF73 /* DataScanner.swift */,
+				A1511A722C37CAAD0069DF73 /* LiveTextView.swift */,
+			);
+			path = 39LiveText;
+			sourceTree = "<group>";
+		};
+		A1511A762C37CB3C0069DF73 /* 40ShareLink */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A772C37CB5C0069DF73 /* ShareLinkView.swift */,
+			);
+			path = 40ShareLink;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +407,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1511A692C37C6710069DF73 /* SearchableView.swift in Sources */,
+				A1511A672C37C64D0069DF73 /* Article.swift in Sources */,
+				A1511A5E2C37C2AB0069DF73 /* GridViewAnimationView.swift in Sources */,
 				A1511A202C379A5B0069DF73 /* ContentView.swift in Sources */,
+				A1511A582C37C0050069DF73 /* MatchedGeometryView.swift in Sources */,
+				A1511A4D2C379C840069DF73 /* ProgressRingView.swift in Sources */,
+				A1511A6F2C37C9840069DF73 /* WeatherData.swift in Sources */,
+				A1511A732C37CAAD0069DF73 /* LiveTextView.swift in Sources */,
+				A1511A6C2C37C9670069DF73 /* ChartsAppView.swift in Sources */,
+				A1511A752C37CACC0069DF73 /* DataScanner.swift in Sources */,
+				A1511A5C2C37C2810069DF73 /* Photo.swift in Sources */,
+				A1511A552C37A1360069DF73 /* SwiftUITextEditor.swift in Sources */,
+				A1511A522C379DCE0069DF73 /* TaskStore.swift in Sources */,
+				A1511A702C37C9840069DF73 /* SimpleLineChartView.swift in Sources */,
+				A1511A642C37C4A00069DF73 /* UIAsyncImageView.swift in Sources */,
+				A1511A612C37C3C90069DF73 /* UITableView.swift in Sources */,
+				A1511A512C379DCE0069DF73 /* Task.swift in Sources */,
+				A1511A4B2C379C490069DF73 /* Color+Ext.swift in Sources */,
+				A1511A782C37CB5C0069DF73 /* ShareLinkView.swift in Sources */,
 				A1511A1E2C379A5B0069DF73 /* SwiftUIStudyThreeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
